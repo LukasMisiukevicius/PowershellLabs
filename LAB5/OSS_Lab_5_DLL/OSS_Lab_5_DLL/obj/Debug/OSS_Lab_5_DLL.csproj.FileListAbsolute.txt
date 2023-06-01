@@ -1,0 +1,6 @@
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\OSS_Lab_5_DLL\bin\Debug\OSS_Lab_5_DLL.dll
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\OSS_Lab_5_DLL\bin\Debug\OSS_Lab_5_DLL.pdb
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\OSS_Lab_5_DLL\obj\Debug\OSS_Lab_5_DLL.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\OSS_Lab_5_DLL\obj\Debug\OSS_Lab_5_DLL.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\OSS_Lab_5_DLL\obj\Debug\OSS_Lab_5_DLL.dll
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\OSS_Lab_5_DLL\obj\Debug\OSS_Lab_5_DLL.pdb

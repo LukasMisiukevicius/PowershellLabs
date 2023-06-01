@@ -1,0 +1,11 @@
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\bin\Debug\Lab5_Debug.exe.config
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\bin\Debug\Lab5_Debug.exe
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\bin\Debug\Lab5_Debug.pdb
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\bin\Debug\OSS_Lab_5_DLL.dll
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\bin\Debug\OSS_Lab_5_DLL.pdb
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\obj\Debug\Lab5_Debug.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\obj\Debug\Lab5_Debug.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\obj\Debug\Lab5_Debug.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\obj\Debug\Lab5_Debug.csproj.CopyComplete
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\obj\Debug\Lab5_Debug.exe
+C:\Users\Lukas\source\repos\OSS_Lab_5_DLL\Lab5_Debug\obj\Debug\Lab5_Debug.pdb
